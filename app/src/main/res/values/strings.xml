@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tick Task</string>
+    <string name="done_task_toast">Task Completed!</string>
+    <string name="add_task_toast">Task Added!</string>
+    <string name="welcomeTodo">Tick Task To-Do List</string>
+    <string name="done_btn">Done !</string>
+    <string name="item_list">Hello</string>
+    <string name="welcomeAlarm">Tick Task Alarm</string>
+    <string name="alarm_on_Btn">Set Alarm</string>
+    <string name="alarm_off_Btn">Unset Alarm</string>
+    <string name="set_alarm_text">Did you set the alarm?</string>
+</resources>
